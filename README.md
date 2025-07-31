@@ -6,23 +6,22 @@ This repository contains some of the practice code, examples, and small projects
 
 ## 📁 Folder Structure
 
-- **JAVA/**  
+- **JAVA**  
   Java practice codes, small programs, and concept demos. Useful for mastering OOPs, control structures, collections, etc.
 
-- **Javascript/**  
+- **Javascript**  
   Core JavaScript programs covering the basics, logic building, and DOM manipulation.
 
-- **JS_Functions/**  
+- **JS_Functions**  
   JavaScript function-based problems and examples — focused on modular, reusable code.
 
-- **REACT/**  
+- **REACT**  
   Hands-on React tutorials and mini projects including component-based architecture, props, state, and hooks.
 
 ## 📌 Purpose
 
 This repo serves as:
 - A reference for my personal learning and revision.
-- A showcase of my coding progress during the apprenticeship.
 - A base to build more complex projects in the future.
 
 ## 🛠️ Tech Stack
